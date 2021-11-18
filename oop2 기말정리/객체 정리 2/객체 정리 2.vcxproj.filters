@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\13장">
+      <UniqueIdentifier>{a60a0b5c-4afa-4db3-85a9-7fa2aefdc8a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\14장">
+      <UniqueIdentifier>{68162b41-beeb-4785-a376-7917a5c21ce2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1.EOF.cpp">
+      <Filter>소스 파일\13장</Filter>
+    </ClCompile>
+    <ClCompile Include="2.getline.cpp">
+      <Filter>소스 파일\13장</Filter>
+    </ClCompile>
+    <ClCompile Include="3.setbase.cpp">
+      <Filter>소스 파일\13장</Filter>
+    </ClCompile>
+    <ClCompile Include="4.setprecision.cpp">
+      <Filter>소스 파일\13장</Filter>
+    </ClCompile>
+    <ClCompile Include="5.escape.cpp">
+      <Filter>소스 파일\13장</Filter>
+    </ClCompile>
+    <ClCompile Include="6.setw.cpp">
+      <Filter>소스 파일\13장</Filter>
+    </ClCompile>
+    <ClCompile Include="8.etc.cpp">
+      <Filter>소스 파일\13장</Filter>
+    </ClCompile>
+    <ClCompile Include="7.rdstate.cpp">
+      <Filter>소스 파일\13장</Filter>
+    </ClCompile>
+    <ClCompile Include="1.쓰기.cpp">
+      <Filter>소스 파일\14장</Filter>
+    </ClCompile>
+    <ClCompile Include="2.읽기.cpp">
+      <Filter>소스 파일\14장</Filter>
+    </ClCompile>
+    <ClCompile Include="3.직접쓰기.cpp">
+      <Filter>소스 파일\14장</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
