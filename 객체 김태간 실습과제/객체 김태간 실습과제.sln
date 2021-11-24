@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "객체 김태간 실습과제", "객체 김태간 실습과제\객체 김태간 실습과제.vcxproj", "{F51CC429-A83C-44F0-940F-C609A459E4E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F51CC429-A83C-44F0-940F-C609A459E4E4}.Debug|x64.ActiveCfg = Debug|x64
+		{F51CC429-A83C-44F0-940F-C609A459E4E4}.Debug|x64.Build.0 = Debug|x64
+		{F51CC429-A83C-44F0-940F-C609A459E4E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{F51CC429-A83C-44F0-940F-C609A459E4E4}.Debug|x86.Build.0 = Debug|Win32
+		{F51CC429-A83C-44F0-940F-C609A459E4E4}.Release|x64.ActiveCfg = Release|x64
+		{F51CC429-A83C-44F0-940F-C609A459E4E4}.Release|x64.Build.0 = Release|x64
+		{F51CC429-A83C-44F0-940F-C609A459E4E4}.Release|x86.ActiveCfg = Release|Win32
+		{F51CC429-A83C-44F0-940F-C609A459E4E4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {250FF598-7E4A-45D8-8917-F14BEF7FD979}
+	EndGlobalSection
+EndGlobal
