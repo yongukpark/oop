@@ -1,2 +1,3 @@
-﻿  1.쓰기.cpp
+﻿  소스.cpp
+C:\Users\Administrator\Documents\GitHub\oop\oop2 기말정리\객체 정리 2\소스.cpp(11,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   객체 정리 2.vcxproj -> C:\Users\Administrator\Documents\GitHub\oop\oop2 기말정리\Debug\객체 정리 2.exe

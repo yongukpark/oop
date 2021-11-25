@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\14장">
       <UniqueIdentifier>{68162b41-beeb-4785-a376-7917a5c21ce2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\15장">
+      <UniqueIdentifier>{e3fae513-3b38-460e-87bf-c27ce99f7505}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.EOF.cpp">
@@ -53,6 +56,24 @@
     </ClCompile>
     <ClCompile Include="3.직접쓰기.cpp">
       <Filter>소스 파일\14장</Filter>
+    </ClCompile>
+    <ClCompile Include="4.seekg.cpp">
+      <Filter>소스 파일\14장</Filter>
+    </ClCompile>
+    <ClCompile Include="5.seekp.cpp">
+      <Filter>소스 파일\14장</Filter>
+    </ClCompile>
+    <ClCompile Include="6.파일경로.cpp">
+      <Filter>소스 파일\14장</Filter>
+    </ClCompile>
+    <ClCompile Include="7.binary file.cpp">
+      <Filter>소스 파일\14장</Filter>
+    </ClCompile>
+    <ClCompile Include="8.reinterpret_cast.cpp">
+      <Filter>소스 파일\14장</Filter>
+    </ClCompile>
+    <ClCompile Include="1.vector.cpp">
+      <Filter>소스 파일\15장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
