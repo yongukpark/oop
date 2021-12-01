@@ -17,4 +17,6 @@ int main() {
 	for (iter = v.begin(); iter != v.end(); iter++) {
 		cout << *iter << ' ';
 	}
+
+
 }
