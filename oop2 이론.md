@@ -132,7 +132,7 @@ Copy and paste는 가져오고 싶은 것만 가져올 수 있다
 
 ### Upriding  
 같은 이름의 멤버함수 일때 자식의 것이 우선 순위  
-자식에 없으면 올라가서 찾음  
+자식에 없으면 올라가서 찾음   
  
 # Chapter 12 (Polymorphism)
 ### virtual  
